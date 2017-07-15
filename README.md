@@ -3,4 +3,5 @@ CoffeeScript [Handlebars](http://handlebarsjs.com/) renderer
 
 # Requirements:
 * [Handlebars.js](http://handlebarsjs.com/)
-* [js-yaml](https://github.com/nodeca/js-yaml
+* [js-yaml](https://github.com/nodeca/js-yaml)
+* [yargs](http://yargs.js.org/)

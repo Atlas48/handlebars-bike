@@ -1,0 +1,27 @@
+{
+  "name": "handlebars-bike",
+  "version": "0.0.0",
+  "description": "CoffeeScript Handlebars renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtlasJan/handlebars-bike.git"
+  },
+  "keywords": [
+    "handlebars",
+    "compliler",
+    "JSON",
+    "YAML"
+  ],
+  "author": "Archie Sullivan <AtlasJan@gmx.com>",
+  "license": "GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/AtlasJan/handlebars-bike/issues"
+  },
+  "dependencies": {
+    "yargs": "~8.0.2"
+  }
+}
